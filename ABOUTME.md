@@ -26,7 +26,7 @@ I am always excited to collaborate on projects, especially those that:
 
 ## 📫 How to Reach Me
 
-Let's connect! Feel free to reach out to me for collaborations, discussions, or just a chat about technology. You can find me on LinkedIn: https://www.linkedin.com/in/josephandrewhernandez/)
+Let's connect! Feel free to reach out to me for collaborations, discussions, or just a chat about technology. You can find me on LinkedIn: (https://www.linkedin.com/in/josephandrewhernandez/)
 
 ---
 
