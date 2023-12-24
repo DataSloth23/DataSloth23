@@ -1,0 +1,22 @@
+# Character Picture Grid: Automate the Boring Stuff with Python
+
+
+grid = [['.', '.', '.', '.', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['.', 'O', 'O', 'O', 'O', 'O'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['.', '.', '.', '.', '.', '.']]
+x = 0
+
+for y in range(6):
+    
+    grid[x][y]
+    
+    for x in range(9):
+        print(grid[x][y],end='')
+    print(end='\n')
+
